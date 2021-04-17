@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestComInNet5", "TestComInNet5\TestComInNet5.csproj", "{FD85342E-2738-4CD7-A464-C0F9AE9BFB70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD85342E-2738-4CD7-A464-C0F9AE9BFB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD85342E-2738-4CD7-A464-C0F9AE9BFB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD85342E-2738-4CD7-A464-C0F9AE9BFB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD85342E-2738-4CD7-A464-C0F9AE9BFB70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4B44874-115C-495D-8CB8-070B89C9BCA4}
+	EndGlobalSection
+EndGlobal
